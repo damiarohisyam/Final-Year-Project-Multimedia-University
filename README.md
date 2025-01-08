@@ -19,7 +19,8 @@ This Jupyter Notebook contains the full framework to predict football match resu
 ### 2. Project Dataset  
 **Folder**: `Dataset/`  
 **Description**:  
-The `Dataset` folder contains all the data used to train and test the models. The dataset includes 30 seasons of English Premier League matches (from 1993/1994 to 2022/2023).
+The `Dataset` folder contains all the data used to train and test the models. 
+The data will be sourced from https://www.football-data.co.uk/englandm.php, specifically covering the English Premier League season1993/1994 to season 2022/2023.
 
 **Important Instructions**:  
 - **Do not modify the file paths in the code**. The code expects the dataset files to be in the **root folder** (where the Jupyter Notebook is), and **not inside any subfolders**.
